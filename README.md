@@ -912,7 +912,7 @@
       <div class="meta-divider"></div>
       <div class="meta-item">
         <span class="meta-item-label">Tahun</span>
-        <span class="meta-item-value">2025</span>
+        <span class="meta-item-value">2026</span>
       </div>
     </div>
   </div>
